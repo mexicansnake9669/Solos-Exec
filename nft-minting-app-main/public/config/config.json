@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x90200b4DB3D78b5b520A05bBFC610A8b4426dFd4",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x90200b4db3d78b5b520a05bbfc610a8b4426dfd4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Solos Exec",
+  "SYMBOL": "EXECS",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/solos-exec-fxfcaodxmn",
+  "SHOW_BACKGROUND": true
+}
