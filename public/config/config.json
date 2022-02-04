@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA2B6Ad3Ad3D4a267BeE0Afe4e3321Eb1Def54f37",
+  "SCAN_LINK": "https://polygonscan.com/address/0xA2B6Ad3Ad3D4a267BeE0Afe4e3321Eb1Def54f37",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Solo Exe",
+  "SYMBOL": "EXE",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/solo-exe",
+  "SHOW_BACKGROUND": true
+}
